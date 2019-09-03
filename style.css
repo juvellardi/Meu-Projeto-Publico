@@ -1,0 +1,23 @@
+head{
+	font-family: tahoma;
+}
+* {
+	box-sizing: border-box;
+}
+body {
+	background: grey;
+	font-family: tahoma, cursive;
+	text-align: justify-all;
+}
+.caixa{
+	width: 200px;
+	height: 200px;
+	background: pink;
+	display: inline-block;
+	border: 2px solid yellow;
+	border-radius: 25%;
+	padding: 25px;
+	text-align: center;
+	margin: 2.5%;
+	font-family: tahoma; 
+}
